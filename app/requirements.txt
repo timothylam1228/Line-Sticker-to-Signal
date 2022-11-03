@@ -1,0 +1,8 @@
+python-telegram-bot==13.11
+requests
+python-dotenv
+ffmpeg-python
+apng
+pillow
+signalstickers_client
+asyncio

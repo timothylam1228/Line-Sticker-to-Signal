@@ -1,0 +1,2 @@
+/start - start bot
+/updatelog - show update logs
