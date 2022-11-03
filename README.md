@@ -23,7 +23,7 @@ Install dependencies
 create a .env file
 
 ```
-  TOKEN=YOUR_TOKEN
+  TOKEN=YOUR_BOT_TOKEN //Create a new bot from bot father in telegram and copy the api key (https://core.telegram.org/bots)
   APP_ENV=test
   SIGNAL_USERNAME=SIGNAL_USERNAME
   SIGNAL_PASSWORD=SIGNAL_USERNAME
@@ -58,3 +58,4 @@ convert to signal
 ![image](https://user-images.githubusercontent.com/38665439/199755448-98abdbec-520b-46f2-a019-4cba39381fe5.png)
 
 Due to the limitation of signal upload sticker limit. Please use your own signal credentials to run the bot to prevent going over the limit.
+Feel free to contact me via telegram https://t.me/DoneewK if you need further help
