@@ -42,3 +42,5 @@ Start the telegram bot
 ```bash
   python start.py
 ```
+
+Due to the limitation of signal upload sticker limit. Please use your own signal credentials to run the bot to prevent going over the limit.
