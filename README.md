@@ -1,7 +1,4 @@
-# Line-Sticker-to-Telegram/Signal (Telegram bot)
-# Line Sticker to Telegram
-# Line Sticker to Signal
-
+# Line Sticker to Telegram / Line Sticker to Signal (Telegram bot)
 ## Run Locally
 
 Clone the project
