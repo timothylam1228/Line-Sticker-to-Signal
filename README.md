@@ -1,4 +1,6 @@
 # Line-Sticker-to-Telegram/Signal (Telegram bot)
+# Line Sticker to Telegram
+# Line Sticker to Signal
 
 ## Run Locally
 
